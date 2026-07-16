@@ -1,0 +1,5 @@
+src/*.hs
+
+.claude/
+
+*.json
